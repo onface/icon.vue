@@ -1,23 +1,23 @@
 <template>
 	<div>
-		<Icon type="up" />
-		<Icon type="up-o" />
-		<Icon type="up-of" />
-		<Icon type="up-s" />
-		<Icon type="up-sf" />
-		<Icon type="onface" />
-		<Icon type="info" />
-		<Icon type="info-o" />
-		<Icon type="info-of" />
-		<Icon type="loading" />
-		<Icon type="github" themes="demo" />
+		<face-icon type="up" />
+		<face-icon type="up-o" />
+		<face-icon type="up-of" />
+		<face-icon type="up-s" />
+		<face-icon type="up-sf" />
+		<face-icon type="onface" />
+		<face-icon type="info" />
+		<face-icon type="info-o" />
+		<face-icon type="info-of" />
+		<face-icon type="loading" />
+		<face-icon type="github" themes="demo" />
 	</div>
 </template>
 
 <script>
 import Icon from "icon.vue"
 export default {
-	components: { Icon }
+
 }
 </script>
 <style scoped >

@@ -1,7 +1,7 @@
 {
     "name": "icon.vue",
     "main": "lib/index.js",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "icon vue",
     "keywords": "",
     "scripts": {
@@ -18,9 +18,7 @@
     "$username": "onface",
     "$repository": "icon.vue",
     "dependencies": {
-        "prop-types": "^15.6.0",
-        "themes-classname": "^1.0.1",
-        "util.react": "^1.4.1"
+        "themes-classname": "^1.0.1"
     },
     "devDependencies": {
         "babel": "^6.23.0",
@@ -73,7 +71,7 @@
         "react-hot-loader": "^4.0.0-beta.6",
         "style-loader": "^0.13.1",
         "url-loader": "^0.6.2",
-        "vue": "^2.5.13",
+        "vue": "^2.5.16",
         "vue-loader": "^13.6.1",
         "vue-template-compiler": "^2.5.13",
         "webpack": "^3.10.0",
