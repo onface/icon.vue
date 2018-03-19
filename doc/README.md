@@ -4,7 +4,7 @@
 ````code
 {
     title: 'Vue',
-    desc: '`<Icon type="github" />`',
+    desc: '`<face-icon type="github" />`',
     html: '<div id="vue-demo" ></div>',
     js: './basic.demo.js',
     source: './Basic.vue',
