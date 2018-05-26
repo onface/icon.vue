@@ -232,7 +232,7 @@ if (fis.project.currentMedia() === 'npm') {
         parser: []
     })
     fis.match('**.vue', {
-        rExt: 'js',
+        rExt: 'vue',
         useSameNameRequire: true,
         parser: [
             fis.plugin('vue-component', {
