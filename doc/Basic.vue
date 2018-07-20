@@ -16,6 +16,7 @@
 
 <script>
 import Icon from "icon.vue"
+require('vue').use(Icon)
 export default {
 
 }

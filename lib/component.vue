@@ -5,7 +5,7 @@
 <script>
 var themesClassName = require('themes-classname')
 export default {
-  name: 'Icon',
+  name: 'face-icon',
   props: {
       type: String,
       themes: {
